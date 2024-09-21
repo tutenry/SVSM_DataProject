@@ -1,0 +1,266 @@
+COU,Country,Year,Topic,Breakdowns,Percentage
+USA,United States,2007,Businesses with a website or home page (%),All businesses (10 persons employed or more),61.9
+USA,United States,2012,Businesses with a website or home page (%),All businesses (10 persons employed or more),72.85
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),All businesses (10 persons employed or more),62.57
+USA,United States,2007,Businesses with a website or home page (%),Small (10 to 49 employees),57.9
+USA,United States,2012,Businesses with a website or home page (%),Small (10 to 49 employees),70.65
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Small (10 to 49 employees),61.2
+USA,United States,2007,Businesses with a website or home page (%),Manufacturing,56.8
+USA,United States,2012,Businesses with a website or home page (%),Manufacturing,66.7
+USA,United States,2005,Orders received over computer networks (%),Manufacturing,28.3
+USA,United States,2006,Orders received over computer networks (%),Manufacturing,31.2
+USA,United States,2007,Orders received over computer networks (%),Manufacturing,35.2
+USA,United States,2008,Orders received over computer networks (%),Manufacturing,39.7
+USA,United States,2009,Orders received over computer networks (%),Manufacturing,42.8
+USA,United States,2010,Orders received over computer networks (%),Manufacturing,47.9
+USA,United States,2011,Orders received over computer networks (%),Manufacturing,49.3
+USA,United States,2012,Orders received over computer networks (%),Manufacturing,52.4
+USA,United States,2013,Orders received over computer networks (%),Manufacturing,57.1
+USA,United States,2014,Orders received over computer networks (%),Manufacturing,60.9
+USA,United States,2015,Orders received over computer networks (%),Manufacturing,63.3
+USA,United States,2016,Orders received over computer networks (%),Manufacturing,64.8
+USA,United States,2017,Orders received over computer networks (%),Manufacturing,66.7
+USA,United States,2018,Orders received over computer networks (%),Manufacturing,67.4
+USA,United States,2019,Orders received over computer networks (%),Manufacturing,68.1
+USA,United States,2020,Orders received over computer networks (%),Manufacturing,68.5
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Manufacturing,59.4
+USA,United States,2007,Businesses with a website or home page (%),Construction,25.2
+USA,United States,2012,Businesses with a website or home page (%),Construction,38.7
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Construction,42.6
+USA,United States,2007,Businesses with a website or home page (%),"Wholesale trade, except of motor vehicles and motorcycles",50.9
+USA,United States,2012,Businesses with a website or home page (%),"Wholesale trade, except of motor vehicles and motorcycles",57.9
+USA,United States,2005,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",23.6
+USA,United States,2006,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",23.7
+USA,United States,2007,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",24.1
+USA,United States,2008,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",23.8
+USA,United States,2009,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",27.4
+USA,United States,2010,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",28.3
+USA,United States,2011,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",27.9
+USA,United States,2012,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",28.4
+USA,United States,2013,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",29
+USA,United States,2014,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",30
+USA,United States,2015,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",32.4
+USA,United States,2016,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",33.2
+USA,United States,2017,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",33
+USA,United States,2018,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",32.6
+USA,United States,2019,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",33.6
+USA,United States,2020,Orders received over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",35.6
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),"Wholesale trade, except of motor vehicles and motorcycles",48.5
+USA,United States,2007,Businesses with a website or home page (%),Retail Trade,41.4
+USA,United States,2012,Businesses with a website or home page (%),Retail Trade,51.3
+USA,United States,2005,Orders received over computer networks (%),Retail Trade,2.5
+USA,United States,2006,Orders received over computer networks (%),Retail Trade,2.9
+USA,United States,2007,Orders received over computer networks (%),Retail Trade,3.4
+USA,United States,2008,Orders received over computer networks (%),Retail Trade,3.6
+USA,United States,2009,Orders received over computer networks (%),Retail Trade,4
+USA,United States,2010,Orders received over computer networks (%),Retail Trade,4.4
+USA,United States,2011,Orders received over computer networks (%),Retail Trade,4.9
+USA,United States,2012,Orders received over computer networks (%),Retail Trade,5.4
+USA,United States,2013,Orders received over computer networks (%),Retail Trade,5.8
+USA,United States,2014,Orders received over computer networks (%),Retail Trade,6.4
+USA,United States,2015,Orders received over computer networks (%),Retail Trade,7.1
+USA,United States,2016,Orders received over computer networks (%),Retail Trade,7.9
+USA,United States,2017,Orders received over computer networks (%),Retail Trade,8.7
+USA,United States,2018,Orders received over computer networks (%),Retail Trade,9.6
+USA,United States,2019,Orders received over computer networks (%),Retail Trade,10.7
+USA,United States,2020,Orders received over computer networks (%),Retail Trade,13.6
+USA,United States,2021,Orders received over computer networks (%),Retail Trade,13.2
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Retail Trade,45.8
+USA,United States,2007,Businesses with a website or home page (%),Transportation and storage ,25
+USA,United States,2012,Businesses with a website or home page (%),Transportation and storage ,29.6
+USA,United States,2009,Orders received over computer networks (%),Transportation and storage ,10.9
+USA,United States,2010,Orders received over computer networks (%),Transportation and storage ,9.7
+USA,United States,2011,Orders received over computer networks (%),Transportation and storage ,11.2
+USA,United States,2012,Orders received over computer networks (%),Transportation and storage ,11.4
+USA,United States,2013,Orders received over computer networks (%),Transportation and storage ,12
+USA,United States,2014,Orders received over computer networks (%),Transportation and storage ,11.7
+USA,United States,2015,Orders received over computer networks (%),Transportation and storage ,12.6
+USA,United States,2016,Orders received over computer networks (%),Transportation and storage ,13
+USA,United States,2017,Orders received over computer networks (%),Transportation and storage ,19.1
+USA,United States,2018,Orders received over computer networks (%),Transportation and storage ,17.6
+USA,United States,2019,Orders received over computer networks (%),Transportation and storage ,18
+USA,United States,2020,Orders received over computer networks (%),Transportation and storage ,13.1
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Transportation and storage ,37.3
+USA,United States,2007,Businesses with a website or home page (%),Accommodation and Food and beverage service activities,32.8
+USA,United States,2012,Businesses with a website or home page (%),Accommodation and Food and beverage service activities,46.8
+USA,United States,2005,Orders received over computer networks (%),Accommodation and Food and beverage service activities,2.2
+USA,United States,2006,Orders received over computer networks (%),Accommodation and Food and beverage service activities,2.8
+USA,United States,2007,Orders received over computer networks (%),Accommodation and Food and beverage service activities,3.6
+USA,United States,2008,Orders received over computer networks (%),Accommodation and Food and beverage service activities,4.4
+USA,United States,2009,Orders received over computer networks (%),Accommodation and Food and beverage service activities,4.4
+USA,United States,2012,Orders received over computer networks (%),Accommodation and Food and beverage service activities,5.6
+USA,United States,2015,Orders received over computer networks (%),Accommodation and Food and beverage service activities,4.4
+USA,United States,2016,Orders received over computer networks (%),Accommodation and Food and beverage service activities,4.6
+USA,United States,2017,Orders received over computer networks (%),Accommodation and Food and beverage service activities,9.8
+USA,United States,2018,Orders received over computer networks (%),Accommodation and Food and beverage service activities,10.7
+USA,United States,2019,Orders received over computer networks (%),Accommodation and Food and beverage service activities,12
+USA,United States,2020,Orders received over computer networks (%),Accommodation and Food and beverage service activities,15.6
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Accommodation and Food and beverage service activities,32.5
+USA,United States,2007,Businesses with a website or home page (%),Information and communication ,74.4
+USA,United States,2012,Businesses with a website or home page (%),Information and communication ,76.1
+USA,United States,2005,Orders received over computer networks (%),Information and communication ,3.1
+USA,United States,2006,Orders received over computer networks (%),Information and communication ,3.8
+USA,United States,2007,Orders received over computer networks (%),Information and communication ,4.5
+USA,United States,2008,Orders received over computer networks (%),Information and communication ,5.1
+USA,United States,2009,Orders received over computer networks (%),Information and communication ,6.2
+USA,United States,2010,Orders received over computer networks (%),Information and communication ,6.9
+USA,United States,2011,Orders received over computer networks (%),Information and communication ,7.3
+USA,United States,2012,Orders received over computer networks (%),Information and communication ,7.2
+USA,United States,2013,Orders received over computer networks (%),Information and communication ,9.7
+USA,United States,2014,Orders received over computer networks (%),Information and communication ,10.3
+USA,United States,2015,Orders received over computer networks (%),Information and communication ,10.5
+USA,United States,2016,Orders received over computer networks (%),Information and communication ,11
+USA,United States,2017,Orders received over computer networks (%),Information and communication ,20.7
+USA,United States,2018,Orders received over computer networks (%),Information and communication ,21.4
+USA,United States,2019,Orders received over computer networks (%),Information and communication ,27.3
+USA,United States,2020,Orders received over computer networks (%),Information and communication ,29.3
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Information and communication ,73.4
+USA,United States,2007,Businesses with a website or home page (%),Financial and insurance activities,53
+USA,United States,2012,Businesses with a website or home page (%),Financial and insurance activities,59
+USA,United States,2009,Orders received over computer networks (%),Financial and insurance activities,3.1
+USA,United States,2010,Orders received over computer networks (%),Financial and insurance activities,2
+USA,United States,2011,Orders received over computer networks (%),Financial and insurance activities,2.2
+USA,United States,2012,Orders received over computer networks (%),Financial and insurance activities,2.3
+USA,United States,2013,Orders received over computer networks (%),Financial and insurance activities,2.5
+USA,United States,2014,Orders received over computer networks (%),Financial and insurance activities,2.8
+USA,United States,2015,Orders received over computer networks (%),Financial and insurance activities,3.1
+USA,United States,2016,Orders received over computer networks (%),Financial and insurance activities,3.3
+USA,United States,2017,Orders received over computer networks (%),Financial and insurance activities,4.3
+USA,United States,2018,Orders received over computer networks (%),Financial and insurance activities,4.8
+USA,United States,2019,Orders received over computer networks (%),Financial and insurance activities,5.1
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Financial and insurance activities,59.8
+USA,United States,2007,Businesses with a website or home page (%),Real estate activities ,41.1
+USA,United States,2012,Businesses with a website or home page (%),Real estate activities ,46
+USA,United States,2010,Orders received over computer networks (%),Real estate activities ,0.9
+USA,United States,2011,Orders received over computer networks (%),Real estate activities ,1
+USA,United States,2012,Orders received over computer networks (%),Real estate activities ,1.1
+USA,United States,2013,Orders received over computer networks (%),Real estate activities ,5.1
+USA,United States,2014,Orders received over computer networks (%),Real estate activities ,5.1
+USA,United States,2015,Orders received over computer networks (%),Real estate activities ,4.3
+USA,United States,2016,Orders received over computer networks (%),Real estate activities ,4.4
+USA,United States,2017,Orders received over computer networks (%),Real estate activities ,6.6
+USA,United States,2018,Orders received over computer networks (%),Real estate activities ,7
+USA,United States,2019,Orders received over computer networks (%),Real estate activities ,7.2
+USA,United States,2020,Orders received over computer networks (%),Real estate activities ,7.9
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Real estate activities ,47.7
+USA,United States,2007,Businesses with a website or home page (%),"Professional, scientific and technical activities",50.2
+USA,United States,2012,Businesses with a website or home page (%),"Professional, scientific and technical activities",58.2
+USA,United States,2005,Orders received over computer networks (%),"Professional, scientific and technical activities",1.1
+USA,United States,2006,Orders received over computer networks (%),"Professional, scientific and technical activities",1.1
+USA,United States,2007,Orders received over computer networks (%),"Professional, scientific and technical activities",1.2
+USA,United States,2008,Orders received over computer networks (%),"Professional, scientific and technical activities",1.2
+USA,United States,2009,Orders received over computer networks (%),"Professional, scientific and technical activities",1.4
+USA,United States,2010,Orders received over computer networks (%),"Professional, scientific and technical activities",1.4
+USA,United States,2011,Orders received over computer networks (%),"Professional, scientific and technical activities",1.5
+USA,United States,2012,Orders received over computer networks (%),"Professional, scientific and technical activities",1.5
+USA,United States,2013,Orders received over computer networks (%),"Professional, scientific and technical activities",1.7
+USA,United States,2014,Orders received over computer networks (%),"Professional, scientific and technical activities",1.7
+USA,United States,2015,Orders received over computer networks (%),"Professional, scientific and technical activities",2.6
+USA,United States,2016,Orders received over computer networks (%),"Professional, scientific and technical activities",2.7
+USA,United States,2017,Orders received over computer networks (%),"Professional, scientific and technical activities",3.4
+USA,United States,2018,Orders received over computer networks (%),"Professional, scientific and technical activities",3.6
+USA,United States,2019,Orders received over computer networks (%),"Professional, scientific and technical activities",3.9
+USA,United States,2020,Orders received over computer networks (%),"Professional, scientific and technical activities",5.4
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),"Professional, scientific and technical activities",71.2
+USA,United States,2007,Businesses with a website or home page (%),Administrative and support service activities ,38.2
+USA,United States,2012,Businesses with a website or home page (%),Administrative and support service activities ,49.4
+USA,United States,2005,Orders received over computer networks (%),Administrative and support service activities ,3.1
+USA,United States,2006,Orders received over computer networks (%),Administrative and support service activities ,3.3
+USA,United States,2007,Orders received over computer networks (%),Administrative and support service activities ,3.4
+USA,United States,2008,Orders received over computer networks (%),Administrative and support service activities ,3.8
+USA,United States,2009,Orders received over computer networks (%),Administrative and support service activities ,4.6
+USA,United States,2010,Orders received over computer networks (%),Administrative and support service activities ,4.7
+USA,United States,2011,Orders received over computer networks (%),Administrative and support service activities ,5
+USA,United States,2012,Orders received over computer networks (%),Administrative and support service activities ,5.3
+USA,United States,2013,Orders received over computer networks (%),Administrative and support service activities ,3.1
+USA,United States,2014,Orders received over computer networks (%),Administrative and support service activities ,3.4
+USA,United States,2015,Orders received over computer networks (%),Administrative and support service activities ,3.6
+USA,United States,2016,Orders received over computer networks (%),Administrative and support service activities ,3.6
+USA,United States,2017,Orders received over computer networks (%),Administrative and support service activities ,6.4
+USA,United States,2018,Orders received over computer networks (%),Administrative and support service activities ,6.5
+USA,United States,2019,Orders received over computer networks (%),Administrative and support service activities ,6.5
+USA,United States,2020,Orders received over computer networks (%),Administrative and support service activities ,4.9
+USA,United States,2007,Businesses placing orders (i.e. making purchases) over computer networks (%),Administrative and support service activities ,49.9
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),All businesses (10 persons employed or more),2.03
+USA,United States,2017,Businesses purchasing cloud computing services (%),All businesses (10 persons employed or more),52.2
+USA,United States,2018,Businesses purchasing cloud computing services (%),All businesses (10 persons employed or more),44.29308355
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),All businesses (10 persons employed or more),35.14449465
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),All businesses (10 persons employed or more),43.47841386
+USA,United States,2017,Businesses purchasing cloud computing services: Storage of files (%),All businesses (10 persons employed or more),29.1
+USA,United States,2017,Businesses using Artificial Intelligence (AI) (%),All businesses (10 persons employed or more),6.399089768
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),All businesses (10 persons employed or more),3.675265148
+USA,United States,2018,Businesses purchasing cloud computing services (%),Large (250 employees and more),68.12620246
+USA,United States,2017,Businesses using Artificial Intelligence (AI) (%),Large (250 employees and more),11.24721604
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Large (250 employees and more),7.465048202
+USA,United States,2018,Businesses purchasing cloud computing services (%),Medium (50 to 249 employees,56.78798132
+USA,United States,2017,Businesses using Artificial Intelligence (AI) (%),Medium (50 to 249 employees,8.312958435
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Medium (50 to 249 employees,5.100240336
+USA,United States,2018,Businesses purchasing cloud computing services (%),Small (10 to 49 employees),42.65528788
+USA,United States,2017,Businesses using Artificial Intelligence (AI) (%),Small (10 to 49 employees),5.804878049
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Small (10 to 49 employees),3.487427927
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Manufacturing,2.379427202
+USA,United States,2017,Businesses purchasing cloud computing services (%),Manufacturing,45.33333333
+USA,United States,2018,Businesses purchasing cloud computing services (%),Manufacturing,30.59636076
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Manufacturing,24.3505057
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Manufacturing,30.18734274
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Manufacturing,3.18647255
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Construction,0.559943678
+USA,United States,2017,Businesses purchasing cloud computing services (%),Construction,38.67120954
+USA,United States,2018,Businesses purchasing cloud computing services (%),Construction,23.9564263
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Construction,17.17457777
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Construction,21.52522202
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Construction,1.778235484
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),"Wholesale trade, except of motor vehicles and motorcycles",2.274723751
+USA,United States,2017,Businesses purchasing cloud computing services (%),"Wholesale trade, except of motor vehicles and motorcycles",46.00760456
+USA,United States,2018,Businesses purchasing cloud computing services (%),"Wholesale trade, except of motor vehicles and motorcycles",32.43722796
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),"Wholesale trade, except of motor vehicles and motorcycles",27.50999133
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),"Wholesale trade, except of motor vehicles and motorcycles",32.9491156
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),"Wholesale trade, except of motor vehicles and motorcycles",2.378550221
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Retail Trade,1.440936474
+USA,United States,2017,Businesses purchasing cloud computing services (%),Retail Trade,36.98384201
+USA,United States,2018,Businesses purchasing cloud computing services (%),Retail Trade,25.35774829
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Retail Trade,21.16171074
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Retail Trade,23.53983512
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Retail Trade,2.528291702
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Transportation and storage ,2.141925256
+USA,United States,2017,Businesses purchasing cloud computing services (%),Transportation and storage ,36.39455782
+USA,United States,2018,Businesses purchasing cloud computing services (%),Transportation and storage ,25.67697158
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Transportation and storage ,17.94287868
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Transportation and storage ,22.45290089
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Transportation and storage ,2.68081111
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Accommodation and Food and beverage service activities,1.109695666
+USA,United States,2017,Businesses purchasing cloud computing services (%),Accommodation and Food and beverage service activities,33.13559322
+USA,United States,2018,Businesses purchasing cloud computing services (%),Accommodation and Food and beverage service activities,22.67630309
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Accommodation and Food and beverage service activities,19.70669212
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Accommodation and Food and beverage service activities,19.95346294
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Accommodation and Food and beverage service activities,2.142109014
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Information and communication ,1.634635255
+USA,United States,2017,Businesses purchasing cloud computing services (%),Information and communication ,58.59375
+USA,United States,2018,Businesses purchasing cloud computing services (%),Information and communication ,61.64561063
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Information and communication ,42.73047817
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Information and communication ,53.68633825
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Information and communication ,7.164023915
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Financial and insurance activities,0.604206255
+USA,United States,2017,Businesses purchasing cloud computing services (%),Financial and insurance activities,47.16157205
+USA,United States,2018,Businesses purchasing cloud computing services (%),Financial and insurance activities,52.13738585
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Financial and insurance activities,42.41558739
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Financial and insurance activities,43.88962749
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Financial and insurance activities,4.813605075
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Real estate activities ,0.595146938
+USA,United States,2017,Businesses purchasing cloud computing services (%),Real estate activities ,47.16157205
+USA,United States,2018,Businesses purchasing cloud computing services (%),Real estate activities ,40.34638679
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Real estate activities ,31.18045786
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Real estate activities ,34.09065912
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Real estate activities ,3.569104781
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),"Professional, scientific and technical activities",1.121554493
+USA,United States,2017,Businesses purchasing cloud computing services (%),"Professional, scientific and technical activities",57.80089153
+USA,United States,2018,Businesses purchasing cloud computing services (%),"Professional, scientific and technical activities",54.99822851
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),"Professional, scientific and technical activities",31.09547588
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),"Professional, scientific and technical activities",45.96898829
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),"Professional, scientific and technical activities",5.865901702
+USA,United States,2017,Businesses using RFID (Radio Frequency Identification) technology (%),Administrative and support service activities ,0.814935351
+USA,United States,2017,Businesses purchasing cloud computing services (%),Administrative and support service activities ,43.15789474
+USA,United States,2018,Businesses purchasing cloud computing services (%),Administrative and support service activities ,31.64955929
+USA,United States,2017,Businesses purchasing cloud computing services: Customer Relationship Management (CRM) software (%),Administrative and support service activities ,27.31573063
+USA,United States,2017,Businesses purchasing cloud computing services: Hosting of databases (%),Administrative and support service activities ,29.29753151
+USA,United States,2018,Businesses using Artificial Intelligence (AI) (%),Administrative and support service activities ,2.8601034
